@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="favourite_icon">#FFFF0000</color>
+    <color name="card_item_bg">#FFD1D2D5</color>
+    <color name="card_item_text_color">#FF474b56</color>
+    <color name="tab_indicator">#FFC8102E</color>
+    <color name="tab_text">#FF003865</color>
+    <color name="card_image_item_text_color">#FF474b56</color>
+    <color name="card_stat_item_text_color">#FF474b56</color>
+    <color name="card_stat_item_bg">#FFD1D2D5</color>
+    <color name="filter_list_bg">#FFD1D2D5</color>
+</resources>
